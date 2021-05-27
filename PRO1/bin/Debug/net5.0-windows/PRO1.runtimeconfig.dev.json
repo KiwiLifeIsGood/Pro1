@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kiwi__Alter__Ego\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kiwi__Alter__Ego\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
